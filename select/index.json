@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君想",
+  "base_artist": "えぬ",
+  "createdAt": "2026-01-04T16:06:53.083414Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君想",
+      "artist": "えぬ",
+      "has_synced": false,
+      "path": "select/pl_01_君想_えぬ.txt"
+    }
+  ]
+}
